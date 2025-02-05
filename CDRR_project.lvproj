@@ -444,6 +444,10 @@ AddOutputFilter chunkFilter
 			</Item>
 		</Item>
 		<Item Name="shared_var.lvlib" Type="Library" URL="../shared_var.lvlib"/>
+		<Item Name="Motor Control Enhanced Position.vi" Type="VI" URL="../Motor Control/Motor Control Enhanced Position.vi"/>
+		<Item Name="PID2.vi" Type="VI" URL="../Motor Control/PID2.vi"/>
+		<Item Name="Impedance Control.vi" Type="VI" URL="../Motor Control/Impedance Control.vi"/>
+		<Item Name="PID for position.vi" Type="VI" URL="../Motor Control/PID for position.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
@@ -674,7 +678,6 @@ AddOutputFilter chunkFilter
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="dynamic_lower_limit.vi" Type="VI" URL="../Motor Control/dynamic_lower_limit.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

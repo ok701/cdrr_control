@@ -446,6 +446,7 @@ AddOutputFilter chunkFilter
 		<Item Name="shared_var.lvlib" Type="Library" URL="../shared_var.lvlib"/>
 		<Item Name="Main.vi" Type="VI" URL="../Motor Control/Main.vi"/>
 		<Item Name="Bi Directional Trajectory.vi" Type="VI" URL="../Motor Control/Bi Directional Trajectory.vi"/>
+		<Item Name="Loadcell Match.vi" Type="VI" URL="../Motor Control/Loadcell Match.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>

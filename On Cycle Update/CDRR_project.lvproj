@@ -1,14 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="21008000">
-	<Property Name="varPersistentID:{002943AC-5635-4E02-ACCD-148B34C8D60F}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Ref Pos</Property>
+	<Property Name="varPersistentID:{002943AC-5635-4E02-ACCD-148B34C8D60F}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Ref Position</Property>
 	<Property Name="varPersistentID:{0974E14B-2867-4807-8B49-187C3EC27B17}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Trigger</Property>
 	<Property Name="varPersistentID:{0AD0B212-A9BD-4803-9355-79D2A1F8883B}" Type="Ref">/NI-cRIO-9047-01E2E2FC/Chassis/Real-Time Scan Resources/Mod8/Position0</Property>
 	<Property Name="varPersistentID:{16CCD8F3-063F-4456-B6C4-6EF356CD9F41}" Type="Ref">/NI-cRIO-9047-01E2E2FC/Chassis/Real-Time Scan Resources/Mod8/Velocity0</Property>
-	<Property Name="varPersistentID:{81B26C0E-D7AF-4E11-AC37-30AAC8AA6719}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Net Force</Property>
-	<Property Name="varPersistentID:{863AD5E9-F3A2-4A96-9D46-C09F799F2872}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Mes Force</Property>
+	<Property Name="varPersistentID:{863AD5E9-F3A2-4A96-9D46-C09F799F2872}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Mes Tension</Property>
 	<Property Name="varPersistentID:{91E65450-DD5A-405F-93BD-DBF83CC11AD9}" Type="Ref">/NI-cRIO-9047-01E2E2FC/Chassis/Real-Time Scan Resources/Mod8/Position1</Property>
-	<Property Name="varPersistentID:{BF658AD1-5D0E-4811-8820-183BDAA7CD77}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Mes Pos</Property>
-	<Property Name="varPersistentID:{C06E6937-3F01-4760-AD4C-CF8606F69BD7}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Ref Force</Property>
+	<Property Name="varPersistentID:{BF658AD1-5D0E-4811-8820-183BDAA7CD77}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Mes Position</Property>
+	<Property Name="varPersistentID:{C06E6937-3F01-4760-AD4C-CF8606F69BD7}" Type="Ref">/NI-cRIO-9047-01E2E2FC/shared_var.lvlib/Ref Tension</Property>
 	<Property Name="varPersistentID:{FA93CDA5-1286-4ED6-B1E1-3CD729FAA49A}" Type="Ref">/NI-cRIO-9047-01E2E2FC/Chassis/Real-Time Scan Resources/Mod8/Velocity1</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
